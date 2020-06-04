@@ -17,99 +17,93 @@ Doncs a aquest missatge cal afegir un missatge depenent de l'estació de l'any e
 Per tant, en el missatge de benvinguda cal que feu aparèixer una de les dites que us facilito que faci referència a l'estació en què ens trobem. Si us plau, sigueu originals i NO agafeu la primera.
 
  
-Dites refernts a la Primavera:
+Dites referents a la **Primavera**:
 ----
- - En el llit, tot l'any és primavera.
- - L'hivern dóna les cartes i la primavera fa el joc.
- - La falsa primavera enganya el bestiar.
- - La primavera la sang altera.
- - Mal hivern, primavera d'infern.
- - No hi ha primavera sense flors ni estiu sense calors.
- - Oreneta primerenca, primavera calorenca.
- - Per primavera la natura s'esvera.
- - Primavera tardana, fa créixer es blat a sa sala.
- - Sant Joan i sant Pere, adéu primavera.
- - Tramuntana de primavera, pluja al darrera.
- - Una flor no fa estiu; ni dues, primavera.
- - Una flor no fa primavera.
- - Una oreneta no fa estiu, ni dues primavera.
- - Una oreneta no fa primavera.
+ - En el llit, tot l'any és **primavera**.
+ - L'hivern dóna les cartes i la **primavera** fa el joc.
+ - La falsa **primavera** enganya el bestiar.
+ - La **primavera** la sang altera.
+ - Mal hivern, **primavera** d'infern.
+ - No hi ha **primavera** sense flors ni estiu sense calors.
+ - Oreneta primerenca, **primavera** calorenca.
+ - Per **primavera** la natura s'esvera.
+ - **Primavera** tardana, fa créixer es blat a sa sala.
+ - Sant Joan i sant Pere, adéu **primavera**.
+ - Tramuntana de **primavera**, pluja al darrera.
+ - Una flor no fa estiu; ni dues, **primavera**.
+ - Una flor no fa **primavera**.
+ - Una oreneta no fa estiu, ni dues **primavera**.
+ - Una oreneta no fa **primavera**.
 
-Dites refernts a l'Estiu:
+Dites referents a l'**Estiu**:
 ----
- - A l'estiu, filosa no diu.
- - A l'estiu, tot reviu.
- - A l'estiu tota cuca viu.
- - A l'estiu a l'ombra, i a l'hivern al sol.
- - Cada cosa a son temps, i d'estiu cigales.
- - Del bon estiu, el pagès viu.
- - En l'estiu tota cuca viu.
- - En l'estiu, tothom viu.
- - L'oreneta ja ha vingut, ja tenim l'estiu damunt.
- - On hages passat l'hivern, passa l'estiu.
- - On has passat l'estiu, passa l'hivern.
- - Paraules d'estiu, segons qui les diu.
- - Quan la Candelera plora, el fred ja és fora; quan la Candelera riu, ja ve l'estiu; tant si plora com si riu, ja ve l'estiu.
- - Quan la Candelera riu, ja som a l'estiu.
- - Qui diu mal de l'estiu, no sap el que diu.
- - Si la Candelera plora, el fred és fora; si la Candelera riu, ni hivernni estiu.
- - Si la Candelera plora, es fred és fora; si la Candelera riu, lluny és s'estiu.
- - Si per Nadal fa estiu, a Pasqua prop d'es caliu.
- - Una flor no fa estiu.
- - Una flor no fa estiu; ni dues, primavera.
- - Una mosca no fa estiu.
- - Una oreneta no fa estiu.
- - Vianda d'estiu vol regadiu.
+ - A l'**estiu**, filosa no diu.
+ - A l'**estiu**, tot reviu.
+ - A l'**estiu** tota cuca viu.
+ - A l'**estiu** a l'ombra, i a l'hivern al sol.
+ - Cada cosa a son temps, i d'**estiu** cigales.
+ - Del bon **estiu**, el pagès viu.
+ - En l'**estiu** tota cuca viu.
+ - En l'**estiu**, tothom viu.
+ - L'oreneta ja ha vingut, ja tenim l'**estiu** damunt.
+ - On hages passat l'hivern, passa l'**estiu**.
+ - On has passat l'**estiu**, passa l'hivern.
+ - Paraules d'**estiu**, segons qui les diu.
+ - Quan la Candelera plora, el fred ja és fora; quan la Candelera riu, ja ve l'**estiu**; tant si plora com si riu, ja ve l'**estiu**.
+ - Quan la Candelera riu, ja som a l'**estiu**.
+ - Qui diu mal de l'**estiu**, no sap el que diu.
+ - Si la Candelera plora, el fred és fora; si la Candelera riu, ni hivernni **estiu**.
+ - Si la Candelera plora, es fred és fora; si la Candelera riu, lluny és s'**estiu**.
+ - Si per Nadal fa **estiu**, a Pasqua prop d'es caliu.
+ - Una flor no fa **estiu**.
+ - Una flor no fa **estiu**; ni dues, primavera.
+ - Una mosca no fa **estiu**.
+ - Una oreneta no fa **estiu**.
+ - Vianda d'**estiu** vol regadiu.
 
-Dites refernts a la Tardor:
+Dites referents a la **Tardor**:
 ----
- - A casa del vinater, bona tardor i mal hivern.
- - A la tardor, sembrarien si hi hagués saó.
- - A la tardor, el dia porta espardenyes.
- - Bou de tardor és cavall de primavera.
- - Del setembre a la tardor, torna la calor.
- - Diarrea tardoral, sovint mortal.
- - La tardor porta tristor.
- - La tardor segura, Sant Francesc la procura.
- - Les darreres pluges d'agost porten la tardor i aigualeixen el most.
- - Malalties tardorals, llargues i mortals.
- - Pluja de tardor, fa el millor saor.
- - Pluja de tardor, pluja de saó.
- - Pluja d'abril i sol de tardor, solen fer l'any bo i millor.
- - Si plou per Sant Jaume, la tardor es prepara.
- - Si veus l'eriçó a l'arbocer, la tardor ja vé.
- - Tardor entrada, panxa tivada.
- - Tardor i hivern, per al vell, temps d'infern.
- - Tardor serena, hivern ventós; tardor ventosa, hivern serè.
- - Tardorada dolenta, millor tardana que primerenca.
- - Tardorada vertadera, per Sant Mateu l'aigua primera.
- - Verdura per la tardor, per a tu i per a mi, no.
+ - A casa del vinater, bona **tardor** i mal hivern.
+ - A la **tardor**, sembrarien si hi hagués saó.
+ - A la **tardor**, el dia porta espardenyes.
+ - Bou de **tardor** és cavall de primavera.
+ - Del setembre a la **tardor**, torna la calor.
+  - La **tardor** porta tristor.
+ - La **tardor** segura, Sant Francesc la procura.
+ - Les darreres pluges d'agost porten la **tardor** i aigualeixen el most.
+ - Pluja de **tardor**, fa el millor saor.
+ - Pluja de **tardor**, pluja de saó.
+ - Pluja d'abril i sol de **tardor**, solen fer l'any bo i millor.
+ - Si plou per Sant Jaume, la **tardor** es prepara.
+ - Si veus l'eriçó a l'arbocer, la **tardor** ja vé.
+ - **Tardor** entrada, panxa tivada.
+ - **Tardor** i hivern, per al vell, temps d'infern.
+ - **Tardor** serena, hivern ventós; **tardor** ventosa, hivern serè.
+ - Verdura per la **tardor**, per a tu i per a mi, no.
  
-Dites refernts a l'Hivern:
+Dites referents a l'**Hivern**:
 ----
- - A l'hivern, boirina i la neu per veïna.
- - A l'hivern, bona sopa i vi calent.
- - A l'hivern, dia i solet; lluna i nit, quan no fa fred.
- - A l'hivern, el millor amic és un bon abric.
- - A l'hivern, forner i, a l'estiu, taverner.
- - A la Plana de Vic, nou mesos d'hivern i tres d'infern.
- - Abril finat, hivernpassat.
- - Del sol de l'hivern i dels núvols d'estiu, enganyats eixiu.
- - En hivern, tot perd son govern.
- - Fang a l'hivern i pols a l'estiu, tot el camp reviu.
- - Hivern fangós, juny granellós.
- - Hivern fredós, estiu calorós.
- - Hivern plujós, estiu abundós.
- - L'hivern enrajolat i l'estiu empedrat.
- - L'hivern té mal govern.
- - Mal hivern, primavera d'infern.
- - Ni hivernsense capa, ni estiu sense carabassa.
- - No diguis hivernpassat, que Sant Jordi no sigui estat.
- - On hages passat l'hivern, passa l'estiu.
- - Oreneta arribada, hivernada acabada.
- - Orenetes tardanes, hi ha hivern per setmanes.
- - Per Sant Tomàs comença l'hivernàs.
- - Pluja d'hivern, dia d'infern.
- - Quan el mussol canta en gener, un altre hivernve.
- - Si per santa Àgada plou, quaranta dies més d'hivern.
- - Trons en s'hivern, pa per vuit dies.
+ - A l'**hivern**, boirina i la neu per veïna.
+ - A l'**hivern**, bona sopa i vi calent.
+ - A l'**hivern**, dia i solet; lluna i nit, quan no fa fred.
+ - A l'**hivern**, el millor amic és un bon abric.
+ - A l'**hivern**, forner i, a l'estiu, taverner.
+ - A la Plana de Vic, nou mesos d'**hivern** i tres d'infern.
+ - Abril finat, **hivern** passat.
+ - Del sol de l'**hivern** i dels núvols d'estiu, enganyats eixiu.
+ - En **hivern**, tot perd son govern.
+ - Fang a l'**hivern** i pols a l'estiu, tot el camp reviu.
+ - **Hivern** fangós, juny granellós.
+ - **Hivern** fredós, estiu calorós.
+ - **Hivern** plujós, estiu abundós.
+ - L'**hivern** enrajolat i l'estiu empedrat.
+ - L'**hivern** té mal govern.
+ - Mal **hivern**, primavera d'infern.
+ - Ni **hivern** sense capa, ni estiu sense carabassa.
+ - No diguis **hivern** passat, que Sant Jordi no sigui estat.
+ - On hages passat l'**hivern**, passa l'estiu.
+ - Orenetes tardanes, hi ha **hivern** per setmanes.
+ - Pluja d'**hivern**, dia d'infern.
+ - Quan el mussol canta en gener, un altre **hivern** ve.
+ - Si per santa Àgada plou, quaranta dies més d'**hivern**.
+ - Trons en s'**hivern**, pa per vuit dies.
