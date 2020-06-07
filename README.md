@@ -1,4 +1,4 @@
-# *Recuperació del* **Mòdul Professional 1 Sistemes Informàtics: UF03 - Implantació de programari específic ** Scripting
+# *Recuperació del* **Mòdul Professional 1 Sistemes Informàtics: UF03 - Implantació de programari específic** *Scripting*
 
 La recuperació es basarà en l'enunciat que es va fer servir durant el curs
 [Personalització del “Missatge de Benvinguda” de Linux (DAW1)](https://joanpardo.home.blog/personalitzacio-del-missatge-de-benvinguda-de-linux-daw1/)
