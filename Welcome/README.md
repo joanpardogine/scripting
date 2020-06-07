@@ -1,7 +1,30 @@
-# Script per donas la benvinguda al nostre servidor
+# Script per donar la benvinguda al nostre servidor
 
-cd /etc/update-motd.d/00-header
+Tant bon punt s'inicia una sessió en el servidor, rebem aquest missatge de benvinguda.
 
+```bash
+login as: joanpardo
+joanpardo@192.168.154.128's password: *********
+
+Welcome to Ubuntu 16.04.5 LTS (GNU/Linux 4.4.0-131-generic ...
+
+ * Documentation: https://help.ubuntu.com
+ * Management: https://landscape.canonical.com
+ * Support: https://ubuntu.com/advantage
+
+186 packages can be updated.
+129 updates are security updates.
+
+New release '18.04.4 LTS' available.
+Run 'do-release-upgrade' to upgrade to it.
+
+Last login: Thu Dec 12 15:11:12 2019 from 192.168.154.1
+joanpardo@ubuntu:~$
+```
+
+Aquest missatge és el resultat de l'execució del primer, d'un seguit d'**```scripts```** (**```00-header```**) que es troben a **```/etc/update-motd.d/```**.
+
+El contingut de l'**```script```** **```00-header```** és el següent:
 ```bash
 #!/bin/sh
 #
@@ -39,3 +62,4 @@ printf "\n"
 printf "Welcome to %s (%s).\n" "$DISTRIB_DESCRIPTION" "$(uname -r)"
 printf "\n"
 ```
+
