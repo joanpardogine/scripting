@@ -40,8 +40,7 @@ fi
 
 echo -e -n "\n";
 
-printf "\n%s i benvingut a un servidor d'en Joan Pardo\namb %s (%s %s %s)" "$miss" "$DISTRIB_DESCRIPTION" "$(uname -o)" "$(uname -r)" "$(uname -m)"
+# printf "\n%s i benvingut a un servidor d'en Joan Pardo\namb %s (%s %s %s)" "$miss" "$DISTRIB_DESCRIPTION" "$(uname -o)" "$(uname -r)" "$(uname -m)"
 
-
-# echo -e -n "\n$miss i benvingut a un servidor d'en Joan Pardo \namb $DISTRIB_DESCRIPTION ($(uname -o)  $(uname -r) $(uname -m))\n"
+echo -e -n "\n$miss i benvingut a un servidor d'en Joan Pardo \namb $DISTRIB_DESCRIPTION ($(uname -o)  $(uname -r) $(uname -m))\n"
                           
