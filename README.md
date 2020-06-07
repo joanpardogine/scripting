@@ -14,7 +14,7 @@ En aquesta ocasió, al missatge de l'enunciat original, cal afegir un missatge d
 És a dir, que abans del missatge de benvinguda cal que feu aparèixer una de les dites que us facilito, i cal que sigui una que faci referència a l'estació en què ens trobem.
 #### ***Si us plau, sigueu originals i NO agafeu la primera.***
 
-# El lliurament l'hauras de fer per correu electrònic, enviant un correu electrònic a la meva adreça joanpardo@ginebro.cat, amb l'script com a fitxer adjunt i a l'assumpte cal que aparegui el següent text [MP01_UF03].
+## El lliurament l'hauras de fer per correu electrònic, enviant un correu electrònic a la meva adreça joanpardo@ginebro.cat, amb l'script com a fitxer adjunt i a l'assumpte cal que aparegui el següent text [MP01_UF03] amb els claudators inclosos.
 
 1. La **Primavera** va des de l'**```1 de març```** fins al **```31 de mai```**.
 1. L'**Estiu** va des de l'**```1 de juny```** fins al **```31 d'agost```**.
