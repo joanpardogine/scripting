@@ -1,10 +1,10 @@
-# scripting
+# *Recuperació del* **Mòdul Professional 1 Sistemes Informàtics**: Scripting
 
 La recuperació es basarà en l'enunciat que es va fer servir durant el curs
 [Personalització del “Missatge de Benvinguda” de Linux (DAW1)](https://joanpardo.home.blog/personalitzacio-del-missatge-de-benvinguda-de-linux-daw1/)
  en aquesta ocasió, però, el que cal és que el missatge no només sigui en funció de l'hora del dia, sinó que també sigui en funció de l'estació de l'any en què ens trobem.
  
-En l'eununciat original, era en funció de l'hora del dia era: (*Recordeu que es considera bona tarda a partir de les 14.00 h*)
+En l'eununciat original, només era en funció de l'hora del dia era: (*Recordeu que es considera bona tarda a partir de les 14.00 h*), per tant:
    1. Si era, **abans** de les **14.00 h**, calia que el missatge fos **```Bon dia i benvingut a un servidor d'en ...```**, mentre que
    1. si era, **després**  de les **14.00 h**, calia que el missatge fos **```Bona tarda i benvingut a un servidor d'en ...```**.
    
