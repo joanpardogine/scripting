@@ -67,7 +67,7 @@ I una de les posibles solucions a la practica la podeu trobar al següent enlla�
 
 El resultat final seria:
 
-1. Iniciada sessió **abans** de les 14.00 h
+1. **Si** s'inicia la sessió **abans** de les **14.00 h**
 
 ```bash
 joanpardo@192.168.154.128's password: 
@@ -89,7 +89,7 @@ Last login: Thu Dec 5 10:11:12 2019 from 192.168.154.1
 joanpardo@SMX2SOXUF02:~$
 ```
 
-2. Iniciada sessió **després** de les 14.00 h
+2. **Si** s'inicia la sessió **després** de les **14.00 h**
 
 ```bash
 joanpardo@192.168.154.128's password: 
