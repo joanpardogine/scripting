@@ -63,4 +63,4 @@ printf "Welcome to %s (%s).\n" "$DISTRIB_DESCRIPTION" "$(uname -r)"
 printf "\n"
 ```
 
-I una de les posibles solucions a la practica la podeu trobar al següent enllaç [00-header](/00-header).
+I una de les posibles solucions a la practica la podeu trobar al següent enllaç [00-header](00-header).
