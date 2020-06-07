@@ -64,3 +64,61 @@ printf "\n"
 ```
 
 I una de les posibles solucions a la practica la podeu trobar al següent enllaç [00-header](00-header).
+
+El resultat final seria:
+
+1. Iniciada sessió **abans** de les 14.00 h
+
+```bash
+joanpardo@192.168.154.128's password: 
+
+Bona tarda i benvingut a un servidor d'en Joan Pardo 
+amb Ubuntu 16.04.5 LTS (GNU/Linux  4.4.0-131-generic i686)
+
+El triomf del veritable home sorgeix de les cendres
+      de l'error. (Pablo Neruda)
+
+
+
+ * Documentation:  https://help.ubuntu.com
+ * Management:     https://landscape.canonical.com
+ * Support:        https://ubuntu.com/advantage
+
+Pueden actualizarse 186 paquetes.
+129 actualizaciones son de seguridad.
+
+New release '18.04.4 LTS' available.
+Run 'do-release-upgrade' to upgrade to it.
+
+
+Last login: Thu Dec 12 12:11:12 2019 from 192.168.154.1
+joanpardo@SMX2SOXUF02:~$
+```
+
+1. Iniciada sessió **després** de les 14.00 h
+
+```bash
+joanpardo@192.168.154.128's password: 
+
+Bona tarda i benvingut a un servidor d'en Joan Pardo 
+amb Ubuntu 16.04.5 LTS (GNU/Linux  4.4.0-131-generic i686)
+
+El triomf del veritable home sorgeix de les cendres
+      de l'error. (Pablo Neruda)
+
+
+
+ * Documentation:  https://help.ubuntu.com
+ * Management:     https://landscape.canonical.com
+ * Support:        https://ubuntu.com/advantage
+
+Pueden actualizarse 186 paquetes.
+129 actualizaciones son de seguridad.
+
+New release '18.04.4 LTS' available.
+Run 'do-release-upgrade' to upgrade to it.
+
+
+Last login: Thu Dec 12 15:11:12 2019 from 192.168.154.1
+joanpardo@SMX2SOXUF02:~$
+```
