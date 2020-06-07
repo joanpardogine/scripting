@@ -2,16 +2,17 @@
 
 La recuperació es basarà en l'enunciat que es va fer servir durant el curs
 [Personalització del “Missatge de Benvinguda” de Linux (DAW1)](https://joanpardo.home.blog/personalitzacio-del-missatge-de-benvinguda-de-linux-daw1/)
- en aquesta ocasió, però, el que cal és que el missatge no només sigui en funció de l'hora del dia, sinó que també sigui en funció de l'estació de l'any en què ens trobem.
+ en aquesta ocasió, però, el que cal és que el missatge ***NO*** només sigui en funció de l'hora del dia, sinó que aparegui **també** un missatge que sigui en funció de l'**estació de l'any** en què ens trobem.
  
-En l'enunciat original, només era en funció de l'hora del dia: (*Recordeu que es considera bona tarda a partir de les 14.00 h*), per tant:
-   1. Si era, **abans** de les **14.00 h**, calia que el missatge fos **```Bon dia i benvingut a un servidor d'en ...```**, mentre que
-   1. si era, **després**  de les **14.00 h**, calia que el missatge fos **```Bona tarda i benvingut a un servidor d'en ...```**.
+L'enunciat original només canviava depenent de l'hora del dia: (*Recordeu que es considera bona tarda a partir de les 14.00 h*), per tant:
+   1. Si era, **abans** de les **14.00 h**, el missatge era **```Bon dia i benvingut a un servidor d'en ...```**, mentre que
+   1. Si era, **després**  de les **14.00 h**, el missatge era **```Bona tarda i benvingut a un servidor d'en ...```**.
    
 > Per més informació visita [“Missatge de Benvinguda” de Linux (DAW1)](welcome/README.md)
 
-En aquesta ocasió, al missatge de l'enunciat original, cal afegir un missatge en funció de l'estació de l'any en què ens trobem.
-És a dir, que en el missatge de benvinguda cal que feu aparèixer una de les dites que us facilito que faci referència a l'estació en què ens trobem. ***Si us plau, sigueu originals i NO agafeu la primera.***
+En aquesta ocasió, al missatge de l'enunciat original, cal afegir un missatge depenent de l'estació de l'any en què ens trobem.
+És a dir, que abans del missatge de benvinguda cal que feu aparèixer una de les dites que us facilito, i cal que sigui una que faci referència a l'estació en què ens trobem.
+#### ***Si us plau, sigueu originals i NO agafeu la primera.***
 
 1. La **Primavera** va des de l'**```1 de març```** fins al **```31 de mai```**.
 1. L'**Estiu** va des de l'**```1 de juny```** fins al **```31 d'agost```**.
