@@ -10,8 +10,8 @@ L'enunciat original només canviava depenent de l'hora del dia: (*Recordeu que e
    
 > Per més informació visita [“Missatge de Benvinguda” de Linux (DAW1)](welcome/README.md)
 
-En aquesta ocasió, al missatge de l'enunciat original, cal afegir un missatge depenent de l'estació de l'any en què ens trobem.
-És a dir, que abans del missatge de benvinguda cal que feu aparèixer una de les dites que us facilito, i cal que sigui una que faci referència a l'estació en què ens trobem.
+### En aquesta ocasió, cal que aparegui el missatge de l'enunciat original, i ademés cal afegir un missatge que dependrà de l'estació de l'any en què ens trobem.
+És a dir, que abans del missatge de benvinguda (de l'enunciat original) cal que feu aparèixer una dita que faci referència a l'estació de l'any en què ens trobem. Les dites, de la **primavera**, de l'**estiu**, de la **tardor** i de l'**hivern** us les facilito més endavant.
 #### ***Si us plau, sigueu originals i NO agafeu la primera.***
 
 ## El lliurament l'hauras de fer per correu electrònic, enviant un correu electrònic a la meva adreça joanpardo@ginebro.cat, amb l'script com a fitxer adjunt i a l'assumpte cal que aparegui el següent text ***[MP01_UF03]*** amb els claudators inclosos.
