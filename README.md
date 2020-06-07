@@ -30,7 +30,6 @@ Dites referents a la **Primavera**:
  - Per **primavera** la natura s'esvera.
  - **Primavera** tardana, fa créixer es blat a sa sala.
  - Sant Joan i sant Pere, adéu **primavera**.
- - Tramuntana de **primavera**, pluja al darrera.
  - Una flor no fa estiu; ni dues, **primavera**.
  - Una flor no fa **primavera**.
  - Una oreneta no fa estiu, ni dues **primavera**.
@@ -116,6 +115,7 @@ A continuació us deixo un exemple de com quedaria executat **abans** de les **1
 login as: joanpardo
 joanpardo@192.168.154.128's password: *********
 
+Tramuntana de primavera, pluja al darrera.
 Bon dia i benvingut a un servidor d'en Joan Pardo
 amb Ubuntu 16.04.5 LTS (GNU/Linux 4.4.0-131-generic i686)
 
