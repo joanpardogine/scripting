@@ -5,3 +5,5 @@ La recuperació es basa en la realització de l'exercici que es va fer durant el
 
 La teoria pensjada al ClickEdu és la següent:
 [Presentació UF01 - Instal·lació, configuració i explotació del sistema informàtic](https://drive.google.com/open?id=1CLGaEPeCsEpaSocV8MWO9N0kjwqXVRKM)
+
+## El lliurament l'hauras de fer per correu electrònic, enviant un correu electrònic a la meva adreça joanpardo@ginebro.cat, amb la taeva solució com a fitxer adjunt i a l'assumpte cal que aparegui el següent text ***[MP01_UF01]*** amb els claudators inclosos.
