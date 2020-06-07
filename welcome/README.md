@@ -12,13 +12,13 @@ Welcome to Ubuntu 16.04.5 LTS (GNU/Linux 4.4.0-131-generic ...
  * Management: https://landscape.canonical.com
  * Support: https://ubuntu.com/advantage
 
-186 packages can be updated.
-129 updates are security updates.
+0 packages can be updated.
+0 updates are security updates.
 
 New release '18.04.4 LTS' available.
 Run 'do-release-upgrade' to upgrade to it.
 
-Last login: Thu Dec 12 15:11:12 2019 from 192.168.154.1
+Last login: Thu Dec 5 9:11:12 2019 from 192.168.154.1
 joanpardo@ubuntu:~$
 ```
 
