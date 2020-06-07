@@ -7,7 +7,7 @@ La recuperació es basarà en l'enunciat que es va fer servir durant el curs
 En l'eununciat original, només era en funció de l'hora del dia era: (*Recordeu que es considera bona tarda a partir de les 14.00 h*), per tant:
    1. Si era, **abans** de les **14.00 h**, calia que el missatge fos **```Bon dia i benvingut a un servidor d'en ...```**, mentre que
    1. si era, **després**  de les **14.00 h**, calia que el missatge fos **```Bona tarda i benvingut a un servidor d'en ...```**.
-   
+Per més informació visita [“Missatge de Benvinguda” de Linux (DAW1)](welcome/README.md) 
 En aquesta ocasió, al missatge de l'eununciat original, cal afegir un missatge en funció de l'estació de l'any en què ens trobem.
 És a dir, que en el missatge de benvinguda cal que feu aparèixer una de les dites que us facilito que faci referència a l'estació en què ens trobem. ***Si us plau, sigueu originals i NO agafeu la primera.***
 
