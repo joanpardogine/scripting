@@ -22,9 +22,9 @@ Last login: Thu Dec 12 15:11:12 2019 from 192.168.154.1
 joanpardo@ubuntu:~$
 ```
 
-Aquest missatge és el resultat de l'execució del primer, d'un seguit d'**```scripts```** (**```00-header```**) que es troben a **```/etc/update-motd.d/```**.
+Aquest missatge és el resultat de l'execució del primer (**```00-header```**), d'un seguit d'**```scripts```** que es troben a **```/etc/update-motd.d/```**.
 
-El contingut de l'**```script```** **```00-header```** és el següent:
+El contingut de l'**```script```** original **```00-header```** és el següent:
 ```bash
 #!/bin/sh
 #
