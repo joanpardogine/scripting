@@ -8,7 +8,7 @@ L'enunciat original només canviava depenent de l'hora del dia: (*Recordeu que e
    1. Si era, **abans** de les **14.00 h**, el missatge era **```Bon dia i benvingut a un servidor d'en ...```**, mentre que
    1. Si era, **després**  de les **14.00 h**, el missatge era **```Bona tarda i benvingut a un servidor d'en ...```**.
    
-> Per més informació visita [“Missatge de Benvinguda” de Linux (DAW1)](welcome/README.md)
+> Per més informació visita [“Missatge de Benvinguda” de Linux (DAW1)](../../welcome/README.md)
 
 ### En aquesta ocasió, cal que aparegui el missatge de l'enunciat original, i ademés cal afegir un missatge que dependrà de l'estació de l'any en què ens trobem.
 És a dir, que abans del missatge de benvinguda (de l'enunciat original) cal que feu aparèixer una dita que faci referència a l'estació de l'any en què ens trobem. Les dites, de la **primavera**, de l'**estiu**, de la **tardor** i de l'**hivern** us les facilito més endavant.
